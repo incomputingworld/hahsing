@@ -14,6 +14,7 @@ Implements different functions to check the function hash_v1() against different
 ## Hashing Part-2
 ### Substack - https://sunilkathuria.substack.com/p/hashing-part-2  
 ### Medium -   https://medium.com/incomputingworld/hashing-part-2-8bec7721b655  
+#### YouTube - Implementing Hash function-2 - https://youtu.be/o9ySnHD7svAhttps://youtu.be/o9ySnHD7svA  
 
 File - test_suitability.py  
 Implements functions to test the efficiency of the hash function hash_v1() while storing data in a hash table.  
